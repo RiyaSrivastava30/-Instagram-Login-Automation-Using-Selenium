@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 29 11:44:09 2021
-
-@author: a
-"""
 #importing Libraries 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
